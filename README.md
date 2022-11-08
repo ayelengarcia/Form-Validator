@@ -1,5 +1,5 @@
 # Form-Validator Simulator
-Mini challenge, Validación simple de formulario. Requiere completado de todos los campos, nombre de usuario, correo electrónico, contraseña y confirmación.
+Mini challenge: Validación simple de formulario. Requiere completado de todos los campos, nombre de usuario, correo electrónico, contraseña y confirmación.
 
 # Utilidades
 
